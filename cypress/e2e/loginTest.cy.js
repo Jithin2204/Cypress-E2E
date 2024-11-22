@@ -1,7 +1,7 @@
 import {loginPage} from "../pages/loginPage"
 const loginObj = new loginPage()
 import loginTestData from '../fixtures/loginTestData.json'
-
+//Git success 
 describe ('loginTest', () =>{
     beforeEach(() => {
         // Prevent uncaught exceptions from causing test failures
